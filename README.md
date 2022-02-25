@@ -3,25 +3,25 @@
 
 ## DexSwapZoo | DEZU
 <p align='center' font='bold'>
-<img src='./DEZU.png' width='100px' height='100px'/>
+<img src='./DEZU.png' width='200px' height='200px'/>
 </p
   
  ## ZooHarmony | ZOO
 <p align='center' font='bold'>
-<img src='./logo.png' width='100px' height='100px'/>
+<img src='./logo.png' width='200px' height='200px'/>
 </p
   
 ## ZooDex | ZDEX
 <p align='center' font='bold'>
-<img src='./ZDEX.png' width='100px' height='100px'/>
+<img src='./ZDEX.png' width='200px' height='200px'/>
 </p
   
 ## LP Logo
 <p align='center' font='bold'>
-<img src='./lpLogo.png' width='100px' height='100px'/>
+<img src='./lpLogo.png'/>
 </p
  
- ## Pool Logo
+## Pool Logo
 <p align='center' font='bold'>
-<img src='./pool_3.png' width='100px' height='100px'/>
+<img src='./pool_3.png'/>
 </p
