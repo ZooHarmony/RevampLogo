@@ -11,7 +11,7 @@
 <img src='./logo.png'/>
 </p
   
- ## ZooDex | ZDEX
+## ZooDex | ZDEX
 <p align='center' font='bold'>
-<img src='./ZDEX.png'/>
+<img src='./ZDEX.png' width='100px' height='100px'/>
 </p
